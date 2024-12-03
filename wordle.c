@@ -12,7 +12,7 @@
 #define ResultGreen     1
 #define ResultYellow    2
 #define ResultRed       4
-#define max             5175
+#define max             14855
 #define ValOk           0
 #define ValBadInput     1
 #define ValNoSuchWord   2
